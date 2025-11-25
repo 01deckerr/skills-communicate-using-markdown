@@ -25,4 +25,7 @@ Initialized empty Git repository in /users/skilss/Projects/recipe-repository/.gi
   }
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
