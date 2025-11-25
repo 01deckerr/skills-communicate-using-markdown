@@ -4,3 +4,6 @@
 #### h4
 ##### They all float down here
 ###### When you're down here with us, you'll float too
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
